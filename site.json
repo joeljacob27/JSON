@@ -1,52 +1,52 @@
 [
       {
-      	"siteid": "1"
+        "siteid": "1",
         "regid" : "2f27a562-91c9",
-        "sitename" : "Site-1",
+        "sitename" : "Site-1"
       },
       {
-        "siteid": "2"
+        "siteid": "2",
         "regid" : "0eb72656-1a67",
-        "sitename" : "Site-2",
+        "sitename" : "Site-2"
       },
       {
-        "siteid": "3"
+        "siteid": "3",
         "regid" : "860dd9b2-0dee",
-        "sitename" : "Site-3",
+        "sitename" : "Site-3"
       },
       {
-        "siteid": "4"
+        "siteid": "4",
         "regid" : "0648cd1a-396b",
-        "sitename" : "Site-4",
+        "sitename" : "Site-4"
       },
       {
         "siteid": "5"
         "regid" : "47c6107b-a751",
-        "sitename" : "Site-5",
+        "sitename" : "Site-5"
       },
       {
       	"siteid": "6"
         "regid" : "2f27a562-91c9",
-        "sitename" : "Site-6",
+        "sitename" : "Site-6"
       },
       {
-        "siteid": "7"
+        "siteid": "7",
         "regid" : "0eb72656-1a67",
-        "sitename" : "Site-7",
+        "sitename" : "Site-7"
       },
       {
-        "siteid": "8"
+        "siteid": "8",
         "regid" : "860dd9b2-0dee",
-        "sitename" : "Site-8",
+        "sitename" : "Site-8"
       },
       {
-        "siteid": "9"
+        "siteid": "9",
         "regid" : "0648cd1a-396b",
-        "sitename" : "Site-9",
+        "sitename" : "Site-9"
       },
       {
-        "siteid": "10"
+        "siteid": "10",
         "regid" : "47c6107b-a751",
-        "sitename" : "Site-10",
+        "sitename" : "Site-10"
       }
   ]
